@@ -29,7 +29,7 @@
 - NodeJS  installed. To verify if nodejs is installed properly, open Command Prompt on Windows, or Terminal on Mac, then execute this command node --version
 ## Setup
 
-- Download the project to the local and open in Visual Studio Code. 
+- Clone the project to the local and open in Visual Studio Code. 
 - Run the below commands
  ```bash
    npm -i init
